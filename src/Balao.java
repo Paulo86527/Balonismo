@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Balao {
 
     int id;
@@ -10,6 +12,10 @@ public class Balao {
     String porte;
 
     public String voar(){
+
+
+
+
         return"voando";
     }
 

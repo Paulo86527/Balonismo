@@ -3,7 +3,7 @@ public class Pessoa
 
     String nome = "Casal";
     
-    int cpf = 0;
+    Double cpf = 0.0;
 
     int rg = 0;
 
@@ -13,3 +13,4 @@ public class Pessoa
 
     String endereço = "endereço";
 }
+
